@@ -260,8 +260,8 @@ figcaption {
   padding-top: 1px;
   padding-bottom: 0px;
   background-color: #070c0f;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#081b27), to(rgba(8, 27, 39, 0.8))), url('../images/Photo-8.jpg');
-  background-image: linear-gradient(180deg, #081b27, rgba(8, 27, 39, 0.8)), url('../images/Photo-8.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#081b27), to(rgba(8, 27, 39, 0.8))), url('../imags/Photo-8.jpg');
+  background-image: linear-gradient(180deg, #081b27, rgba(8, 27, 39, 0.8)), url('../images/2403.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   font-size: 15px;
